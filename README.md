@@ -1,0 +1,1 @@
+A contactless attendance system uses technologies like facial recognition, RFID, or QR codes to track attendance without physical interaction. It enhances efficiency, hygiene, and accuracy by automating attendance in schools, offices, or events.
